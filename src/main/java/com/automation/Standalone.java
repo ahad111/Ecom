@@ -30,9 +30,9 @@ public class Standalone {
         String browsername = "chrome";
         if (browsername.contains("chrome")) {
             ChromeOptions options = new ChromeOptions();
-            if (browsername.contains("headless")) {
+            if (browsername.contains("headlesss")) {
                 System.setProperty("webdriver.chrome.driver", "C:\\Users\\AbdulahadMatloob\\Downloads\\chromedriver1\\chromedriver.exe");
-                options.addArguments("headless");
+                options.addArguments("headlesss");
             }
             driver = new ChromeDriver(options);
             driver.manage().window().maximize();
