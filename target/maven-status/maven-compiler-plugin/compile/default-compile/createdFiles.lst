@@ -1,0 +1,16 @@
+Pageobject\GooglePage.class
+Pageobject\Login.class
+Pageobject\Cart.class
+com\automation\Standalone.class
+com\automation\BaseTest.class
+Utils\DataReaderUtil$1.class
+Utils\WaitUtils.class
+Utils\CommonUtils.class
+com\automation\Listeners.class
+com\automation\Retry.class
+Pageobject\ProductCatalogue.class
+Utils\ExtentReportUtils.class
+Pageobject\CheckoutPage.class
+Pageobject\FacebookPage.class
+Utils\SceenshotUtils.class
+Utils\DataReaderUtil.class

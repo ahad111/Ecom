@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="Parallelw"  >
+
+
+    <listeners><listener class-name="com.automation.Listeners"></listener></listeners>
+
+
+    <test name="Step Loginw">
+        <classes>
+            <class name="com.automation.StepLogin"/>
+        </classes>
+    </test>
+
+</suite>
